@@ -11,6 +11,7 @@ namespace BranchTutorial
         static void Main(string[] args)
         {
             Console.WriteLine("Hola");
+            Console.WriteLine("Adios");
         }
     }
 }
